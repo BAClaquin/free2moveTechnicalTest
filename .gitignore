@@ -1,0 +1,6 @@
+
+.idea/**
+target/
+*.iml
+src/main/resources/data/
+src/output/
